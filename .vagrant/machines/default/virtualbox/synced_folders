@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/chat-room":{"guestpath":"/var/www/chat-room","hostpath":"D:/resume/chat_websocket","disabled":false,"__vagrantfile":true}}}
