@@ -1,5 +1,4 @@
-# Websocket-chat
-基于Websocket开发的聊天室
-
+# 基于web socket的聊天室
+支持多人在线聊天和多房间
 ## 两人在线聊天
 
